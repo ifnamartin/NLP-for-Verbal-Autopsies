@@ -4,7 +4,7 @@ The interest in designing algorithms that learn from themselves, or machines
 that understand their environment and adapt to it, is increasing as computer
 science advances. These practices are encompassed under the term Artificial
 Intelligence (AI).
-
+\n
 One discipline within AI, and one of the booming fields, is called Natural
 Language Processing (NLP). In this field, the main goal is for a computer
 to understand, analyze, manipulate and potentially generate human natural
@@ -17,7 +17,7 @@ the intention of transforming the texts into vectors with which to carry out
 algebraic operations. This approach is based on the idea of assigning to each
 word of a text a dense vector of variable dimension, called embedding, which
 has semantic information about the word it represents.
-
+\n
 Thus, in this work we will thoroughly explain the idea behind word embedding. We will show how the explicit calculation of these dense vectors
 is carried out by designing the neural network from scratch, to later use
 it in the calculation of the semantic similarity between texts, as well as to
